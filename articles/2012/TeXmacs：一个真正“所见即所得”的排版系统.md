@@ -1,6 +1,6 @@
 <div class="inner">
 <h2>TeXmacs：一个真正“所见即所得”的排版系统</h2>
-<p><img src="http://www.yinwang.org/images/texmacs.png" width="95%" /></p>
+<p><img src="../../images/texmacs.png" width="95%" /></p>
 <p>好久没有推荐过自己喜欢的软件了，现在推荐一款我在美国做数学作业的私家法宝：TeXmacs。我恐怕不可能跟以前那么有闲心写个长篇的 TeXmacs 说明文档了，不过这东西如此的简单好用，所以基本上不用我写什么文档了。鉴于知道的人很少，不理解它的人很多，这里只是帮它打个广告，吊一下胃口。</p>
 <p>TeXmacs 的主要特点是：</p>
 <ul>
@@ -29,7 +29,7 @@
 </ul>
 <p>目前由于 TeX 的垄断地位，以及由于 TeXmacs 是法国人做的，这个系统在美国还不是很流行，很多人都没听说过有这种东西存在。学术圈的很多人由于受到某种错误思想的“洗脑”，都不理解这种图形化编辑软件的价值。希望中国人民和法国人民一样后来居上，超越美国。</p>
 <p>想要迅速的掌握 TeXmacs 的基本用法，可以参考我绘制的 <a href="http://www.mindomo.com/view.htm?m=b207992c90c046bdbe4053cbdf88b5d5">TeXmacs 思维导图</a>：</p>
-<p><a href="http://www.mindomo.com/view.htm?m=b207992c90c046bdbe4053cbdf88b5d5"><img src="http://www.yinwang.org/images/texmacs-mindmap.png" width="90%" /></a></p>
+<p><a href="http://www.mindomo.com/view.htm?m=b207992c90c046bdbe4053cbdf88b5d5"><img src="../../images/texmacs-mindmap.png" width="90%" /></a></p>
 </div>
 <!--
 <div class="ad-banner" style="margin-top: 5px">
@@ -44,4 +44,3 @@
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
 </script>
         -->
-    

@@ -2,15 +2,15 @@
 <h2>GTF - Great Teacher Friedman</h2>
 <h3 id="写小人书的老顽童">写小人书的老顽童</h3>
 <p>Dan Friedman 是 Indiana 大学的教授，程序语言领域的创始人之一。他主要的著作《The Little Schemer》（前身叫《The Little Lisper》) 是程序语言界最具影响力的书籍之一。现在很多程序语言界的元老级人物，当年都是看这本“小人书”学会了 Lisp/Scheme，才决心进入这一领域。</p>
-<p><img src="http://www.yinwang.org/images/the-little-schemer.jpeg" alt="The Little Schemer" />
-<img src="http://www.yinwang.org/images/the-little-lisper.jpeg" alt="The Little Lisper" /></p>
+<p><img src="../../images/the-little-schemer.jpeg" alt="The Little Schemer" />
+<img src="../../images/the-little-lisper.jpeg" alt="The Little Lisper" /></p>
 <p>Friedman 对程序语言的理解可以说是世界的最高标准，很可惜的是，由于他个人的低调，他受到很多人的误解。很多人以为他只懂得 Scheme 这种“类型系统落后的语言”。有些人觉得他只顾自己玩，不求“上进”，觉得他的研究闭门造车，不“前沿”。我也误解过他，甚至在见面之前，根据这些书的封面，我断定他肯定是个年轻小伙。结果呢，第一次见到他的时候，他已经过了60岁大寿。</p>
 <p>程序语言的研究者们往往追逐一些“新概念”，却未能想到很多这些新概念早在几十年前就被 Friedman 想到了。举个例子，Haskell 所用的 lazy evaluation 模型，最早就是他在 1976 年在与 David Wise 合写的论文“CONS should not Evaluate its Arguments”中提出来的。</p>
 <p>虽然写了 The Little Schemer， 但 Friedman 的学识并不限于 Scheme。他不断地实验各种其它的语言设计，包括像 ML 一类的含有静态类型系统的函数式语言，逻辑式语言，面向对象语言，用于定理证明的语言等等。在每次的试验之后，他几乎都会写一本书，揭示这些语言最精要的部分。</p>
 <p>觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer：</p>
-<p><img src="http://www.yinwang.org/images/the-little-mler.jpeg" alt="The Little MLer" /></p>
+<p><img src="../../images/the-little-mler.jpeg" alt="The Little MLer" /></p>
 <p>想要真正理解 Java 设计模式的人可以看看这本：A Little Java, A Few Patterns:</p>
-<p><img src="http://www.yinwang.org/images/the-little-java.jpeg" alt="java" /></p>
+<p><img src="../../images/the-little-java.jpeg" alt="java" /></p>
 <p>这些东西的优点和弱点仿佛在他心里都有数，他几乎总是指向正确的前进方向。</p>
 <h3 id="你知道些什么">你知道些什么？</h3>
 <p>可惜的是，由于个人原因，Friedman 始终没有成为我正式的导师（他 “超然物外”，几乎完全不关心自己的学生什么时候能毕业），但他确实是这一生中教会我最多东西的人。所以我想写一些关于他的小故事。也许你能从中看出一个世界级的教育者是什么样子的。我来 IU 之前一位师兄告诉我，Dan Friedman 就像指环王里的甘道夫 (Gandalf)，来了之后发现确实很像。</p>
@@ -96,4 +96,3 @@
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
 </script>
         -->
-    
