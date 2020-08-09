@@ -153,7 +153,7 @@ Forked from [Kuri-su/yinwang.bak](https://github.com/Kuri-su/yinwang.bak)
 - 2013年03月07日 - Oberon 操作系统：被忽略的珍宝
 - 2013年03月07日 - 谈 Linux，Windows 和 Mac
 - 2013年03月07日 - 解密“设计模式”
-- 2013年03月04日 - Braid - 一个发人深思的游戏
+- [x] 2013年03月04日 - [Braid - 一个发人深思的游戏](articles/2013/Braid%20-%20一个发人深思的游戏.md)
 - [x] 2012年09月18日 - [TeXmacs：一个真正“所见即所得”的排版系统](articles/2012/TeXmacs：一个真正“所见即所得”的排版系统.md)
 - [x] 2012年08月01日 - [怎样写一个解释器](articles/2012/怎样写一个解释器.md)
 - [x] 2012年07月25日 - [什么是语义学](articles/2012/什么是语义学.md)
