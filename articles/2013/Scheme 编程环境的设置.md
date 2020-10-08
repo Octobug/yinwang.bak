@@ -1,6 +1,6 @@
 <div class="inner">
 <h2>Scheme 编程环境的设置</h2>
-<p><img src="http://www.yinwang.org/images/paredit1.gif" width="80%" /></p>
+<p><img src="../../images/paredit1.gif" width="80%" /></p>
 <p>介绍了这么久的 Scheme，却没有讲过如何配置一个高效的 Scheme 的编程环境。有些人开始学习 Scheme 的时候感觉无从下手，所以今天讲一下它的配置。</p>
 <p>Scheme 的配置有很多种方式，我不想介绍太多东西，免得有人看花了眼，所以这里只介绍一下我自己的配置。我不大喜欢像 <a href="http://www.neilvandyke.org/quack">Quack</a> 一类的复杂的环境，因为它们经常有很多多余的功能，却缺少我想要的功能。一旦我想修改它们，又到处出问题。我的配置很简约，我用它写了几千行的超高难度的代码，翻来覆去的改，感觉效率非常高，也没有觉得缺少什么特别重要的东西。</p>
 <p>现在我就一步一步的介绍我的配置。</p>
@@ -111,7 +111,7 @@ sudo make install
 <span class="p">(</span><span class="nv">set-face-foreground</span> <span class="ss">'paren-face</span> <span class="s">"DimGray"</span><span class="p">)</span>
 </code></pre></div></div>
 <p>然后再打开 Scheme 代码的时候，你就会看到是这个样子：</p>
-<p><img src="http://www.yinwang.org/images/scheme-paren.jpeg" width="95%" /></p>
+<p><img src="../../images/scheme-paren.jpeg" width="95%" /></p>
 <p>好了，这就是我写 Scheme 的所有配置了。希望这些有所帮助。</p>
 </div>
 <!--
@@ -127,4 +127,3 @@ sudo make install
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
 </script>
         -->
-    

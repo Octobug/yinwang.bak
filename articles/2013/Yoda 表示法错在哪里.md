@@ -2,7 +2,7 @@
 <h2>Yoda 表示法错在哪里</h2>
 <p>在上一篇<a href="http://www.yinwang.org/blog-cn/2013/04/14/terminology/">博文</a>里，我提到了 Yoda 表示法。</p>
 <h3 id="yoda-notationyoda-表示法">Yoda Notation（Yoda 表示法）</h3>
-<p><img src="http://www.yinwang.org/images/yoda-notation.jpeg" alt="" /></p>
+<p><img src="../../images/yoda-notation.jpeg" alt="" /></p>
 <p>它的含义是，在 C/C++ 里面使用这样的表达式顺序：</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>if ("blue" == theSky) ...
 </code></pre></div></div>
