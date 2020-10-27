@@ -118,10 +118,10 @@ Forked from [Kuri-su/yinwang.bak](https://github.com/Kuri-su/yinwang.bak)
 - 2014年01月28日 - RubySonar：一个 Ruby 静态分析器
 - 2014年01月25日 - 程序语言与……
 - 2014年01月04日 - 我和权威的故事
-- 2013年11月25日 - PySonar2 与 Sourcegraph 集成完毕
-- 2013年07月13日 - 丘奇和图灵
-- 2013年07月06日 - Pydiff Python结构化程序比较工具
-- 2013年06月19日 - 我离开了 Coverity
+- [x] 2013年11月25日 - [PySonar2 与 Sourcegraph 集成完毕](articles/2013/PySonar2%20与%20Sourcegraph%20集成完毕.md)
+- [x] 2013年07月13日 - [丘奇和图灵](articles/2013/丘奇和图灵.md)
+- [x] 2013年07月06日 - [Pydiff Python结构化程序比较工具](articles/2013/PyDiff%20-%20Python%20结构化程序比较工具.md)
+- [x] 2013年06月19日 - [我离开了 Coverity](articles/2013/我离开了%20Coverity.md)
 - [x] 2013年04月26日 - [原因与证明](articles/2013/原因与证明.md)
 - [x] 2013年04月21日 - [Ydiff 结构化的程序比较](articles/2013/ydiff%20-%20结构化的程序比较.md)
 - [x] 2013年04月21日 - [程序语言不是工具](articles/2013/程序语言不是工具.md)
