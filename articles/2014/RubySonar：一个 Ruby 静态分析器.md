@@ -2,7 +2,7 @@
 <h2>RubySonar：一个 Ruby 静态分析器</h2>
 <p>在过去一个多月时间里，我大部分时间都在做一个 Ruby 的静态分析叫做 <a href="https://github.com/yinwang0/rubysonar">RubySonar</a>。它使用与 PySonar2 类似的技术，不过针对 Ruby 的语义进行了很多调整。现在这个分析器已经能够支持 <a href="https://sourcegraph.com/github.com/rails/rails">Sourcegraph</a> 的 Ruby 代码搜索和浏览。这比起之前的效果是一个很大的进步。</p>
 <p><a href="https://sourcegraph.com/github.com/jekyll/jekyll/symbols/ruby/gem/Jekyll/Command/$classmethods/globs">
-<img src="http://www.yinwang.org/images/rubysonar1.gif" width="80%" />
+<img src="../../images/rubysonar1.gif" width="80%" />
 </a></p>
 <p>在 RubySonar 的帮助下，对于很多 repo，Sourcegraph 可以搜索到比以前多几十倍甚至上百倍的符号，当然代码的使用范例也随之增加了。代码定位的准确性有很大提高，基本不会出现错位的情况了，另外还支持了局部变量的加亮，所以看起来有点像个“静态 IDE”的味道。</p>
 <p>由于 RubySonar 比起 Sourcegraph 之前用的基于 <a href="http://yardoc.org">YARD</a> 的分析在速度上有上百倍的提高，我们现在可以处理整个 <a href="https://sourcegraph.com/github.com/ruby/ruby">Ruby 标准库</a>（而不只是以前的一小部分）。<a href="https://sourcegraph.com/github.com/rails/rails">Ruby on Rails</a> 的结果也有比较大的改善。另外，以前不支持的像 <a href="https://sourcegraph.com/github.com/Homebrew/homebrew">Homebrew</a> 之类的独立应用，现在也可以分析了。</p>
@@ -23,4 +23,3 @@
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
 </script>
         -->
-    

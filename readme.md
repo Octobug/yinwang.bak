@@ -115,9 +115,9 @@ Forked from [Kuri-su/yinwang.bak](https://github.com/Kuri-su/yinwang.bak)
 - 2014年02月15日 - 我的第一次和最后一次 Hackathon 经历
 - 2014年02月09日 - 程序员的心理疾病
 - 2014年02月04日 - 程序语言与它们的工具
-- 2014年01月28日 - RubySonar：一个 Ruby 静态分析器
-- 2014年01月25日 - 程序语言与……
-- 2014年01月04日 - 我和权威的故事
+- [x] 2014年01月28日 - [RubySonar：一个 Ruby 静态分析器](articles/2014/RubySonar：一个%20Ruby%20静态分析器.md)
+- [x] 2014年01月25日 - [程序语言与……](articles/2014/程序语言与…….md)
+- [x] 2014年01月04日 - [我和权威的故事](articles/2014/我和权威的故事.md)
 - [x] 2013年11月25日 - [PySonar2 与 Sourcegraph 集成完毕](articles/2013/PySonar2%20与%20Sourcegraph%20集成完毕.md)
 - [x] 2013年07月13日 - [丘奇和图灵](articles/2013/丘奇和图灵.md)
 - [x] 2013年07月06日 - [Pydiff Python结构化程序比较工具](articles/2013/PyDiff%20-%20Python%20结构化程序比较工具.md)
